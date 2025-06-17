@@ -234,7 +234,7 @@ const Portfolio = () => {
       {/* Fixed Header */}
       <div className={`fixed top-0 left-0 right-0 z-50 ${darkMode ? 'bg-black/90' : 'bg-white/90'} backdrop-blur border-b ${borderClasses}`}>
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex justify-between items-center">
-          <div className="text-lg sm:text-xl font-bold">anannaya.dev</div>
+          <div className="text-lg sm:text-xl font-bold">anannaya.txt</div>
           <div className="flex items-center space-x-4">
 <button
   onClick={() => setDarkMode(!darkMode)}
