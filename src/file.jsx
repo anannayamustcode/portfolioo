@@ -283,6 +283,7 @@ const Portfolio = () => {
               
             <div className={`space-y-4 text-base sm:text-lg ${darkMode ? 'text-gray-300' : 'text-gray-600'} mb-8`}>
               <p>graduating in 2027</p>
+              <p>i aim to work at pinterest</p>
               <p>computer engineering student at PICT, Pune</p>
               <p>wanted to be an engineer long before I knew what engineers actually do</p>
               <p>passionate about coding with a strong foundation in both frontend and backend — now i am planning to explore into the world of AI/ML</p>
